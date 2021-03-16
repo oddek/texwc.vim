@@ -1,7 +1,7 @@
 " Vim filetype plugin for wordcount in tex files
 " Last change 2021 Mar 16
 " Maintainer: Kent Odde <kentodde89@gmail.com>
-" Licence: This file is placed in the public domain
+" Licence: LaTeX Project Public License
 
 if exists("b:loaded_texwc")
   finish
